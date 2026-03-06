@@ -32,14 +32,14 @@ A complete dynamic web application for online food ordering, developed as a mid-
 
 ## 👥 Team Members
 
-| Name | Student ID | Role | Contribution |
-|------|------------|------|--------------|
-|[] David Addo | 052441360039 | Group Leader |
-|[] Kofi Adjei | 052441360038 |
-|[] Theophilus Larbi | 052441360216 |
-|[] Mahfuz Lukman | 052541360406 |
-|[] Edmund Owusu | 052441360233 |
-|[] Mohammed Hafiz Timtooni | 052441360310 |
+| Name | Student ID | Role |
+|------|------------|------|
+| David Addo | 052441360039 | Group Leader |
+| Kofi Adjei | 052441360038 |
+| Theophilus Larbi | 052441360216 |
+| Mahfuz Lukman | 052541360406 |
+| Edmund Owusu | 052441360233 |
+| Mohammed Hafiz Timtooni | 052441360310 |
 
 ## ✨ Features
 
@@ -377,3 +377,4 @@ switch($order['status']) {
 *© 2026 10Tables. All Rights Reserved.*
 
 ```
+
