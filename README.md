@@ -84,7 +84,7 @@ A complete dynamic web application for online food ordering, developed as a mid-
 
 ## 📁 Project Structure
 
-
+```
 food_ordering_system/
 │
 ├── assets/
@@ -110,7 +110,7 @@ food_ordering_system/
 ├── logout.php                         # Logout and session destruction
 ├── database.sql                        # Database schema with Ghanaian menu items
 └── README.md                           # Project documentation
-
+```
 
 ## 🚀 Installation Guide
 
@@ -376,5 +376,6 @@ switch($order['status']) {
 *© 2026 10Tables. All Rights Reserved.*
 
 ```
+
 
 
